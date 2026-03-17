@@ -40,7 +40,6 @@
     </div>
 </body>
 </html>
-
 <div class="payment-container">
         <h1>KHQR</h1>
 <div style="text-align: center;">
