@@ -34,7 +34,7 @@
             បាញ់លុយខ្មែរ
         </a>
         <!-- Button for ABA Payment Option 2 -->
-        <a href="https://pay.ababank.com/oRF8/2qty9nuy" class="payment-button" target="_blank">
+        <a href="https://pay.ababank.com/oRF8/kg004rd0" class="payment-button" target="_blank">
             បាញ់លុយដុល្លារ 
        </a>
     </div>
