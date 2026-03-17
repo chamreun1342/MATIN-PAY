@@ -78,9 +78,9 @@
         <h1>ACLEDA</h1>
         <h4>ជ្រើសរើសការទូទាត់តាមអំពើចិត្ត</h4>
         <!-- Button for AC Payment Option 1 -->
-        <a href="https://acledabank.com.kh/acleda?payment_data=qWY5B2SAUfIhLblxzOtfu8yRyA1YGYQ90srEOvcavYLT1luZINlTK61bgq1L3YXQhT0YUE4pmXbW/rJDNpIfuXUqxXWe7TKp9NSdqSqYdVj4+/3R3NfMWNoSE+E4qP1EN6Ty6wgRA6rx2f4Gqs/2BlXVxrvvG/SjYTuYLWxqjCrwmdXbb8BqRPkWIO/80HuieJrP3IwoOxj+sUoNFvFJsx1vF9hT1tQ6mFa8UNfi503iZ4Bm2hAFHPk07zVIWpRF&key=khqr" class="payment-button" target="_blank">
+        <a href="https://acledabank.com.kh/acleda?payment_data=qWY5B2SAUfIhLblxzOtfu5ckLzMHjaSki6Ru0bsOyNK+ylPBgZ0sHH6BeGUscKoEg/evomLQbYjkRtyogBn025/DGhgB23a7nYEFUbqZCXxaDxwLxgUrocB5So4P8jmvM1SQ18GWGL7dnzfErIhFnmWb1eTVGOYKCmU96HUadOjshdx56NAUyHnGt5KDHHW2Eyy4kYtvsn+mKYHBk1ePWgXtda8/hqKIVOiJARyokOk=&key=khqr" class="payment-button" target="_blank">
             បាញ់លុយខ្មែរ
         </a>
         <!-- Button for AC Payment Option 2 -->
-        <a href="https://acledabank.com.kh/acleda?payment_data=qWY5B2SAUfIhLblxzOtfu8yRyA1YGYQ90srEOvcavYLT1luZINlTK61bgq1L3YXQhT0YUE4pmXbW/rJDNpIfuXUqxXWe7TKp9NSdqSqYdVj4+/3R3NfMWNoSE+E4qP1ErZqUMQ7V0FftXK+yvEwWhoQBVDUCG+CdEFml28L/WJglGMzxrp9yq/48aK4d0JiRCcFxLK4P5hg0XnpcMQG00sPzHWo0LFbFKzZuSQIrEWwvEtgcv8iPyqfi9yQqOtEH&key=khqr" class="payment-button" target="_blank">
+        <a href="https://acledabank.com.kh/acleda?payment_data=qWY5B2SAUfIhLblxzOtfu5ckLzMHjaSki6Ru0bsOyNK+ylPBgZ0sHH6BeGUscKoEg/evomLQbYjkRtyogBn025/DGhgB23a7nYEFUbqZCXxaDxwLxgUrocB5So4P8jmvM1SQ18GWGL7dnzfErIhFnmWb1eTVGOYKCmU96HUadOjshdx56NAUyHnGt5KDHHW2Eyy4kYtvsn+mKYHBk1ePWgXtda8/hqKIVOiJARyokOk=&key=khqr" class="payment-button" target="_blank">
             បាញ់លុយដុល្លា
